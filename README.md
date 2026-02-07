@@ -1,14 +1,14 @@
 <div align="center">
 
 # 🍸 Bartender Game 🍹  
-**シンプルで楽しいブラウザベースのバーテンダーシミュレーションゲーム**
+**Simple and fun browser-based bartender simulation game**
 
-**PCでのプレイ推奨です。画面サイズを67%に設定すると、ちょうど良いサイズで遊べます。**
+**Recommended to play on PC. Set screen size to 67% for optimal experience.**
 
 </div>
 
 <p align="center">
-  <i>「あなたはバーのマスター。注文通りにカクテルを作り、最高のバーテンダーを目指しましょう！」</i>
+  <i>"You are the master of the bar. Make cocktails as ordered and aim to be the best bartender!"</i>
 </p>
 
 
@@ -19,93 +19,93 @@
 
 ---
 
-## 🎮 今すぐプレイ
+## 🎮 Play Now
 
-**▶️ [クリックしてプレイ](https://imshota1009.github.io/Bartender/)**
-
----
-
-## ✨ 特徴
-
-- 🍹 **インタラクティブなカクテル作り**  
-  材料を選び、氷を入れ、直感的な操作でシェイクします。
-
-- 🥂 **リアルな演出**  
-  液体が混ざり合う様子や注ぐ動作のアニメーションで、没入感のある体験を提供します。
-
-- 👤 **個性豊かなお客様**  
-  様々な職業のお客様が登場し、それぞれ異なるセリフや反応を見せます。
-
-- 🎵 **ジュークボックス (BGM選択)**  
-  ジャズ、中世風、酒場風など、BGMを変えてバーの雰囲気を楽しめます。
-
-- 🌃 **美しいデザイン**  
-  ムーディーなバーの背景とスタイリッシュなフォントが雰囲気を盛り上げます。
-
-- 🏠 **バーの内装カスタマイズ**  
-  壁紙（クラシック/モダン/ファンタジー）や照明（暖色/寒色/ネオン）を変更して、自分だけのバーを作れます！
-
-- 📚 **図鑑 & 称号**
-  カクテルやお客様のプロフィールを集めて図鑑を埋めましょう。プレイするにつれて特別な称号もアンロックされます！
-
-- 🎓 **チュートリアルモード** 
-  マスターバーテンダーから、ステップバイステップでバーテンディングの基礎を学べます。
-
-- 💾 **セーブ機能** 
-  1日の終わりにスロット1へ自動的に進行状況が保存されます。（スロット2・3は近日公開予定！）
-
-
-
-
-- 📸 **フォトモード**  
-  作ったカクテルのスクリーンショットを撮って、X (旧Twitter) や LINE でシェアしましょう！
-
-- 📱 **ジェスチャーシェイク**  
-  スマホを振ってカクテルをシェイク！加速度センサーを使用したリアルな動きに対応しています。
-
-- 🌦️ **天気 & イベント**  
-  ダイナミックな天候変化（晴れ/雨/雪）や季節のイベントがゲームプレイに影響を与えます。
-
-- 🍺 **酔っ払いシステム**  
-  お客様の酔い具合に注目してください。お酒が進むにつれて呂律が回らなくなります！
+**▶️ [Click to Play](https://imshota1009.github.io/Bartender/)**
 
 ---
 
-## 🕹️ 遊び方
+## ✨ Features
 
-1. **ゲームスタート**  
-   「START」を押して開店するか、「TUTORIAL」で基本を学びましょう！
+- 🍹 **Interactive Cocktail Making**  
+  Select ingredients, add ice, and shake with intuitive controls.
 
-2. **注文を確認**  
-   お客様が「称号」と「カクテル名」、そして色によるヒントを提示します。
+- 🥂 **Realistic Presentation**  
+  Animations of liquids mixing and pouring provide an immersive experience.
 
-3. **材料を選ぶ**  
-   下の棚にあるボトルをクリックして、シェイカーに入れます。
+- 👤 **Unique Customers**  
+  Customers from various professions appear, each with different lines and reactions.
 
-4. **氷を入れる**  
-   ほとんどのカクテルには氷が必要です。専用ボタンで追加しましょう。
+- 🎵 **Jukebox (BGM Selection)**  
+  Change the atmosphere of the bar by switching BGM to Jazz, Medieval, Tavern, etc.
 
-5. **シェイク！**  
-   - 🖱️ 「Shake!」ボタンをクリック
-   - 📷 カメラモード（手のジェスチャーでシェイク）
-   - 📱 ジェスチャーモード（スマホを振ってシェイク！）
+- 🌃 **Beautiful Design**  
+  Moody bar backgrounds and stylish fonts enhance the atmosphere.
 
-6. **提供 & 結果**  
-   - ✅ 成功 → スコアアップ & お客様の満足度上昇  
-   - ❌ 失敗 → スコアダウン、やり直し可能  
-   - ⏰ 時間切れ → スコアを競いましょう！
+- 🏠 **Bar Interior Customization**  
+  Customize your bar by changing wallpapers (Classic/Modern/Fantasy) and lighting (Warm/Cool/Neon)!
+
+- 📚 **Encyclopedia & Titles**
+  Collect profiles of cocktails and customers to fill your encyclopedia. Unlock special titles as you play!
+
+- 🎓 **Tutorial Mode** 
+  Learn the basics of bartending step-by-step from a master bartender.
+
+- 💾 **Save Function** 
+  Progress is automatically saved to Slot 1 at the end of each day. (Slots 2 & 3 coming soon!)
+
+
+
+
+- 📸 **Photo Mode**  
+  Take screenshots of your cocktails and share them on X (formerly Twitter) or LINE!
+
+- 📱 **Gesture Shake**  
+  Shake your smartphone to shake the cocktail! Supports realistic movements using the accelerometer.
+
+- 🌦️ **Weather & Events**  
+  Dynamic weather changes (Sunny/Rainy/Snowy) and seasonal events affect gameplay.
+
+- 🍺 **Drunk System**  
+  Pay attention to the customers' drunkenness. As they drink more, their speech becomes slurred!
 
 ---
 
-## 📱 モバイル機能
+## 🕹️ How to Play
 
-- **ジェスチャーシェイク**: 📱 ボタンをタップ → スマホを5回振って完了！
-- **フォトモード**: 📸 ボタンをタップ → スクリーンショット撮影 → SNSでシェア
-- **タッチ操作**: すべてのボタンがモバイルのタッチ操作に最適化されています
+1. **Start Game**  
+   Press "START" to open the bar, or learn the basics in "TUTORIAL"!
+
+2. **Check Order**  
+   The customer presents a "Title", "Cocktail Name", and a color hint.
+
+3. **Select Ingredients**  
+   Click the bottles on the shelf below to add them to the shaker.
+
+4. **Add Ice**  
+   Most cocktails require ice. Add it using the dedicated button.
+
+5. **Shake!**  
+   - 🖱️ Click the "Shake!" button
+   - 📷 Camera Mode (Shake with hand gestures)
+   - 📱 Gesture Mode (Shake by waving your phone!)
+
+6. **Serve & Result**  
+   - ✅ Success → Score up & Customer satisfaction increases  
+   - ❌ Failure → Score down, retry possible  
+   - ⏰ Time's up → Compete for the high score!
 
 ---
 
-## 🛠️ 使用技術
+## 📱 Mobile Features
+
+- **Gesture Shake**: Tap 📱 button → Shake phone 5 times to complete!
+- **Photo Mode**: Tap 📸 button → Take screenshot → Share on SNS
+- **Touch Controls**: All buttons remain optimized for mobile touch controls
+
+---
+
+## 🛠️ Technologies Used
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -119,17 +119,17 @@
 
 ---
 
-## 🚀 今後の改善予定
+## 🚀 Future Improvements
 
-- オンラインランキング機能
-- 壁紙と照明テーマの追加
-- **複数スロットセーブシステムの実装（スロット2 & 3）**
-- 顧客キャラクターとカクテルレシピの追加
+- Online Ranking System
+- Additional Wallpaper and Lighting Themes
+- **Implementation of Multiple Save Slots (Slots 2 & 3)**
+- Additional Customer Characters and Cocktail Recipes
 
 ![](./images/cyberpunk_background.gif)
 
 ---
 
 <div align="center">
-  <p>🍸 今夜の最高の一杯は、あなたの腕にかかっています 🍸</p>
+  <p>🍸 The best drink of the night depends on your skills 🍸</p>
 </div>
